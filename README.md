@@ -16,9 +16,7 @@ With the rapid evolution of Large Language Models (LLMs), LLM-based agents and M
 - Provides a taxonomy of threats, including **adversarial hijacking, unsafe action chains, privacy leakage, hallucinations, and fairness biases**.
 
 ## 🏗️ TrustAgent Framework
-![TrustAgent Framework](https://your-image-link-here)  
-*(Replace with an actual diagram from the paper)*
-
+![TrustAgent Framework](./figure/trustagent_intro.pdf)  
 ## 📌 Key Topics
 ### 1️⃣ Intrinsic Trustworthiness
 - **Brain (LLM Reasoning Module)**: Jailbreak, Prompt Injection, Backdoor Attacks.
