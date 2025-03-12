@@ -1,5 +1,7 @@
 # TrustAgent: A Survey on Trustworthy LLM Agents
 
+![TrustAgent Framework](./figure/tree.jpg)  
+
 ## 📌 Introduction
 With the rapid evolution of Large Language Models (LLMs), LLM-based agents and Multi-agent Systems (MAS) have significantly expanded the capabilities of AI ecosystems. However, this advancement has introduced more complex trustworthiness issues. This repository provides an overview of our survey paper **"A Survey on Trustworthy LLM Agents: Threats and Countermeasures"** and offers insights into threats, defenses, and evaluation techniques for LLM agents.
 
@@ -16,7 +18,7 @@ With the rapid evolution of Large Language Models (LLMs), LLM-based agents and M
 - Provides a taxonomy of threats, including **adversarial hijacking, unsafe action chains, privacy leakage, hallucinations, and fairness biases**.
 
 ## 🏗️ TrustAgent Framework
-![TrustAgent Framework](./figure/trustagent_intro.pdf)  
+![TrustAgent Framework](./figure/trustagent_intro.jpg)  
 ## 📌 Key Topics
 ### 1️⃣ Intrinsic Trustworthiness
 - **Brain (LLM Reasoning Module)**: Jailbreak, Prompt Injection, Backdoor Attacks.
