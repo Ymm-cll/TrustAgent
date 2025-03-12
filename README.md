@@ -1,50 +1,58 @@
-# TrustAgent
 # TrustAgent: A Survey on Trustworthy LLM Agents
 
-![TrustAgent Framework](https://github.com/Ymm-cll/TrustAgent/raw/main/images/framework.png)  
-*Figure 1: TrustAgent Framework Overview (From Paper Fig.1)*
+## 📌 Introduction
+With the rapid evolution of Large Language Models (LLMs), LLM-based agents and Multi-agent Systems (MAS) have significantly expanded the capabilities of AI ecosystems. However, this advancement has introduced more complex trustworthiness issues. This repository provides an overview of our survey paper **"A Survey on Trustworthy LLM Agents: Threats and Countermeasures"** and offers insights into threats, defenses, and evaluation techniques for LLM agents.
 
-## 📖 Introduction
-This repository accompanies the survey paper _"A Survey on Trustworthy LLM Agents: Threats and Countermeasures"_. It provides:
-- Full paper PDF
-- Structured taxonomy of trustworthiness challenges
-- Attack/Defense methodology classification
-- Evaluation benchmarks
-- Key insights and future directions
+## 📄 Paper
+**Title:** A Survey on Trustworthy LLM Agents: Threats and Countermeasures  
+**Authors:** Miao Yu, Fanci Meng, Xinyun Zhou, Shilong Wang, et al.  
+**Institution:** Squirrel AI Learning, Salesforce, The University of North Carolina, Nanyang Technological University, Rutgers University  
+**Link:** [arXiv / Paper URL](https://github.com/Ymm-cll/TrustAgent)  
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-%230076b4)](https://arxiv.org/abs/XXXX.XXXXX)
-[![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)](LICENSE)
+## 🚀 Highlights
+- Introduces **TrustAgent**, a modular framework for analyzing the trustworthiness of LLM-based agents.
+- Categorizes trust issues into **intrinsic (brain, memory, tools)** and **extrinsic (user, agent, environment)** aspects.
+- Surveys **attacks, defenses, and evaluation techniques** in multi-agent systems.
+- Provides a taxonomy of threats, including **adversarial hijacking, unsafe action chains, privacy leakage, hallucinations, and fairness biases**.
 
-## 🧩 Core Components
-### Intrinsic Trustworthiness
-![Intrinsic Modules](https://github.com/Ymm-cll/TrustAgent/raw/main/images/intrinsic_modules.png)  
-*Figure 2: Agent Architecture Components (From Paper Fig.2-4)*
+## 🏗️ TrustAgent Framework
+![TrustAgent Framework](https://your-image-link-here)  
+*(Replace with an actual diagram from the paper)*
 
-| Module    | Key Threats                          | Defense Strategies               |
-|-----------|--------------------------------------|-----------------------------------|
-| 🧠 Brain   | Jailbreak, Prompt Injection          | Multi-agent Debate, Safety Filters |
-| 🗄️ Memory  | Poisoning Attacks, Privacy Leakage   | Query Rewriting, Output Sanitization |
-| 🛠️ Tools   | Malicious API Calls, Tool Hijacking  | Pre-execution Validation           |
+## 📌 Key Topics
+### 1️⃣ Intrinsic Trustworthiness
+- **Brain (LLM Reasoning Module)**: Jailbreak, Prompt Injection, Backdoor Attacks.
+- **Memory**: Memory Poisoning, Privacy Leakage, Short-Term Memory Misuse.
+- **Tools**: Tool Manipulation, Tool Abuse, Malicious API Calls.
 
-### Extrinsic Trustworthiness
-![Extrinsic Interactions](https://github.com/Ymm-cll/TrustAgent/raw/main/images/extrinsic_interactions.png)  
-*Figure 3: Multi-Agent Interaction Risks (From Paper Fig.5-6)*
+### 2️⃣ Extrinsic Trustworthiness
+- **Agent-to-Agent**: Cooperative Attacks, Infectious Attacks, MAS Security.
+- **Agent-to-User**: Personalized Attacks, Transparency Issues, Trust Calibration.
+- **Agent-to-Environment**: Safety in Robotics, Autonomous Driving, Digital Threats.
 
-| Interaction Type         | Unique Challenges                  |
-|--------------------------|------------------------------------|
-| Agent ↔ Agent            | Infectious Attacks, Misinformation |
-| Agent ↔ Environment      | Physical Safety Risks              |
-| Agent ↔ User             | Privacy Violations, Bias           |
+## 🔍 Comparison with Previous Surveys
+| Survey | Object | Multi-Dimensional | Modular | MAS Support |
+|--------|--------|------------------|---------|-------------|
+| Liu et al. | LLM | ✅ | ❌ | ❌ |
+| He et al. | Agent | ✅ | ✅ | ❌ |
+| **TrustAgent (Ours)** | LLM + Agent | ✅ | ✅ | ✅ |
 
-## 🛡️ Defense Taxonomy
-```mermaid
-graph TD
-    A[Defense Approaches] --> B[Alignment]
-    A --> C[Detection]
-    A --> D[Architectural]
-    B --> B1[Value Alignment]
-    B --> B2[Ethical Constraints]
-    C --> C1[Anomaly Detection]
-    C --> C2[Behavior Monitoring]
-    D --> D1[Sandboxing]
-    D --> D2[Redundancy Design]
+## 📥 Citation
+If you find this survey useful for your research, please cite us:
+```bibtex
+@article{trustagent2025,
+  title={A Survey on Trustworthy LLM Agents: Threats and Countermeasures},
+  author={Yu, Miao and Meng, Fanci and Zhou, Xinyun and Wang, Shilong, et al.},
+  journal={arXiv preprint arXiv:XXXXX},
+  year={2025}
+}
+```
+
+## 📢 Contributing
+We welcome contributions! Feel free to submit **issues** or **pull requests** to improve the repository.
+
+## 📧 Contact
+For any questions or discussions, please reach out to the authors:
+- **Miao Yu**: fishthreewater@gmail.com
+- **Xinfeng Li**: lxf-makeit@gmail.com
+- **Qingsong Wen**: qingsongedu@gmail.com
