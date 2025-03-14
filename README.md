@@ -7,7 +7,7 @@ With the rapid evolution of Large Language Models (LLMs), LLM-based agents and M
 **Title:** A Survey on Trustworthy LLM Agents: Threats and Countermeasures  
 **Authors:** Miao Yu, Fanci Meng, Xinyun Zhou, Shilong Wang, et al.  
 **Institution:** Squirrel AI Learning, Salesforce, The University of North Carolina, Nanyang Technological University, Rutgers University  
-**Link:** [arXiv / Paper URL](https://github.com/Ymm-cll/TrustAgent)  
+**Link:** [arXiv / Paper URL]([https://github.com/Ymm-cll/TrustAgent](https://arxiv.org/pdf/2503.09648))  
 
 ## 🚀 Highlights
 - Introduces **TrustAgent**, a modular framework for analyzing the trustworthiness of LLM-based agents.
