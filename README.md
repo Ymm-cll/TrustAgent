@@ -38,11 +38,14 @@ With the rapid evolution of Large Language Models (LLMs), LLM-based agents and M
 ## 📥 Citation
 If you find this survey useful for your research, please cite us:
 ```bibtex
-@article{trustagent2025,
-  title={A Survey on Trustworthy LLM Agents: Threats and Countermeasures},
-  author={Yu, Miao and Meng, Fanci and Zhou, Xinyun and Wang, Shilong, et al.},
-  journal={arXiv preprint arXiv:XXXXX},
-  year={2025}
+@misc{yu2025surveytrustworthyllmagents,
+      title={A Survey on Trustworthy LLM Agents: Threats and Countermeasures}, 
+      author={Miao Yu and Fanci Meng and Xinyun Zhou and Shilong Wang and Junyuan Mao and Linsey Pang and Tianlong Chen and Kun Wang and Xinfeng Li and Yongfeng Zhang and Bo An and Qingsong Wen},
+      year={2025},
+      eprint={2503.09648},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2503.09648}, 
 }
 ```
 
