@@ -11,7 +11,9 @@ With the rapid evolution of Large Language Models (LLMs), LLM-based agents and M
 
 ## ✨ Paper Supplement
 If you have additional articles, please:  
+
 👉 [Click here to submit your article](https://forms.gle/bcSnvKganXyoLFi56)  
+
 We will continuously update the survey and appreciate your support and contribution! 
 
 ## 🚀 Highlights
