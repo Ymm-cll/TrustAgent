@@ -3,11 +3,16 @@
 ## 📌 Introduction
 With the rapid evolution of Large Language Models (LLMs), LLM-based agents and Multi-agent Systems (MAS) have significantly expanded the capabilities of AI ecosystems. However, this advancement has introduced more complex trustworthiness issues. This repository provides an overview of our survey paper **"A Survey on Trustworthy LLM Agents: Threats and Countermeasures"** and offers insights into threats, defenses, and evaluation techniques for LLM agents.
 
-## 📄 Paper
+## 📄 Survey
 **Title:** A Survey on Trustworthy LLM Agents: Threats and Countermeasures  
 **Authors:** Miao Yu, Fanci Meng, Xinyun Zhou, Shilong Wang, et al.  
 **Institution:** Squirrel AI Learning, Salesforce, The University of North Carolina, Nanyang Technological University, Rutgers University  
 **Link:** [arXiv / Paper URL](https://arxiv.org/pdf/2503.09648)
+
+## ✨ Paper Supplement
+If you have additional articles, please: 
+👉 [Click here to submit your article](https://forms.gle/bcSnvKganXyoLFi56)
+We will continuously update the survey and appreciate your support and contribution! 
 
 ## 🚀 Highlights
 - Introduces **TrustAgent**, a modular framework for analyzing the trustworthiness of LLM-based agents.
@@ -55,5 +60,5 @@ We welcome contributions! Feel free to submit **issues** or **pull requests** to
 ## 📧 Contact
 For any questions or discussions, please reach out to the authors:
 - **Miao Yu**: fishthreewater@gmail.com
-- **Xinfeng Li**: lxf-makeit@gmail.com
+- **Xinfeng Li**: lxfmakeit@gmail.com
 - **Qingsong Wen**: qingsongedu@gmail.com
