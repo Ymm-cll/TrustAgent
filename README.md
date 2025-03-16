@@ -36,11 +36,16 @@ We will continuously update the survey and appreciate your support and contribut
 - **Agent-to-Environment**: Safety in Robotics, Autonomous Driving, Digital Threats.
 
 ## 🔍 Comparison with Previous Surveys
-| Survey | Object | Multi-Dimensional | Modular | MAS Support |
-|--------|--------|------------------|---------|-------------|
-| Liu et al. | LLM | ✅ | ❌ | ❌ |
-| He et al. | Agent | ✅ | ✅ | ❌ |
-| **TrustAgent (Ours)** | LLM + Agent | ✅ | ✅ | ✅ |
+| Survey             | Object      | Multi-Dimension | Modular | Technique      | MAS |
+|--------------------|-------------|-----------------|---------|-----------------|------|
+| [Liu et al.](https://arxiv.org/pdf/2308.05374)  | LLM         | ✅              | ❌       | Atk/Eval        | ❌    |
+| [Huang et al.](https://mosis.eecs.utk.edu/publications/lichao2024trustllm.pdf)   | LLM         | ✅              | ❌       | Eval            | ❌    |
+| [He et al.](https://arxiv.org/pdf/2407.19354)   | Agent       | ❌              | ❌       | Atk/Def         | ❌    |
+| [Li et al.](https://arxiv.org/pdf/2401.05459)    | Agent       | ✅              | ❌       | Atk             | ❌    |
+| [Wang et al.](https://arxiv.org/pdf/2409.14457)   | Agent       | ❌              | ❌       | Atk             | ❌    |
+| [Deng et al.](https://dl.acm.org/doi/pdf/10.1145/3716628)   | Agent       | ❌              | ✅       | Atk/Def         | ✅    |
+| [Gan et al.](https://arxiv.org/pdf/2411.09523?)    | Agent       | ✅              | ❌       | Atk/Def/Eval    | ❌    |
+| **TrustAgent (Ours)**  | LLM + Agent | ✅              | ✅       | Atk/Def/Eval    | ✅    |
 
 ## 📥 Citation
 If you find this survey useful for your research, please cite us:
