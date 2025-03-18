@@ -35,7 +35,7 @@ We will continuously update the survey and appreciate your support and contribut
 - **Agent-to-User**: Personalized Attacks, Transparency Issues, Trust Calibration.
 - **Agent-to-Environment**: Safety in Robotics, Autonomous Driving, Digital Threats.
 
-## Table of Contents
+## 💎 Table of Contents
 - [📌 Introduction](#-introduction)
 - [📄 Survey](#-survey)
 - [✨ Paper Supplement](#-paper-supplement)
@@ -44,7 +44,12 @@ We will continuously update the survey and appreciate your support and contribut
 - [📌 Key Topics](#-key-topics)
   - [1️⃣ Intrinsic Trustworthiness](#1️⃣-intrinsic-trustworthiness)
   - [2️⃣ Extrinsic Trustworthiness](#2️⃣-extrinsic-trustworthiness)
-- [📖 Papers]
+- [💎 Table of Contents](#-table-of-contents)
+- [📖 Papers](#-papers)
+- [🔍 Comparison with Previous Surveys](#-comparison-with-previous-surveys)
+- [📥 Citation](#-citation)
+- [📢 Contributing](#-contributing)
+- [📧 Contact](#-contact)
 
 ## 📖 Papers
 
