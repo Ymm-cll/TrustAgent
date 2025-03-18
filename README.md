@@ -62,12 +62,30 @@ We will continuously update the survey and appreciate your support and contribut
 ## 📖 Papers
 ### Intrinsic Trustworthiness
 #### Brain (LLM)
+##### Attack
+##### Defense
+##### Evaluation
+
 #### Memory
+##### Attack
+##### Defense
+##### Evaluation
+
 #### Tool
+##### Attack
+##### Defense
+##### Evaluation
 
 ### Extrinsic Trustworthiness
 #### Agent-to-Agent
+##### Attack
+##### Defense
+##### Evaluation
+
 #### Agent-to-Environment
+##### Physical Environment
+##### Digital Environment
+
 #### Agent-to-User
 
 ## 🔍 Comparison with Previous Surveys
