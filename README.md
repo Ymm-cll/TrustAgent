@@ -9,6 +9,30 @@ With the rapid evolution of Large Language Models (LLMs), LLM-based agents and M
 **Institution:** Squirrel AI Learning, Salesforce, The University of North Carolina, Nanyang Technological University, Rutgers University  
 **Link:** [arXiv / Paper URL](https://arxiv.org/pdf/2503.09648)
 
+## 💎 Table of Contents
+- [📌 Introduction](#-introduction)
+- [📄 Survey](#-survey)
+- [💎 Table of Contents](#-table-of-contents)
+- [✨ Paper Supplement](#-paper-supplement)
+- [🚀 Highlights](#-highlights)
+- [🏗️ TrustAgent Framework](#%EF%B8%8F-trustagent-framework)
+- [📌 Key Topics](#-key-topics)
+  - [1️⃣ Intrinsic Trustworthiness](#1️⃣-intrinsic-trustworthiness)
+  - [2️⃣ Extrinsic Trustworthiness](#2️⃣-extrinsic-trustworthiness)
+- [📖 Papers](#-papers)
+  - [Intrinsic Trustworthiness](#intrinsic-trustworthiness)
+    - [Brain (LLM)](#brain-llm)
+    - [Memory](#memory)
+    - [Tool](#tool)
+  - [Extrinsic Trustworthiness](#extrinsic-trustworthiness)
+    - [Agent-to-Agent](#agent-to-agent)
+    - [Agent-to-Environment](#agent-to-environment)
+    - [Agent-to-User](#agent-to-user)
+- [🔍 Comparison with Previous Surveys](#-comparison-with-previous-surveys)
+- [📥 Citation](#-citation)
+- [📢 Contributing](#-contributing)
+- [📧 Contact](#-contact)
+
 ## ✨ Paper Supplement
 If you have additional articles, please:  
 
@@ -35,25 +59,16 @@ We will continuously update the survey and appreciate your support and contribut
 - **Agent-to-User**: Personalized Attacks, Transparency Issues, Trust Calibration.
 - **Agent-to-Environment**: Safety in Robotics, Autonomous Driving, Digital Threats.
 
-## 💎 Table of Contents
-- [📌 Introduction](#-introduction)
-- [📄 Survey](#-survey)
-- [✨ Paper Supplement](#-paper-supplement)
-- [🚀 Highlights](#-highlights)
-- [🏗️ TrustAgent Framework](#%EF%B8%8F-trustagent-framework)
-- [📌 Key Topics](#-key-topics)
-  - [1️⃣ Intrinsic Trustworthiness](#1️⃣-intrinsic-trustworthiness)
-  - [2️⃣ Extrinsic Trustworthiness](#2️⃣-extrinsic-trustworthiness)
-- [💎 Table of Contents](#-table-of-contents)
-- [📖 Papers](#-papers)
-- [🔍 Comparison with Previous Surveys](#-comparison-with-previous-surveys)
-- [📥 Citation](#-citation)
-- [📢 Contributing](#-contributing)
-- [📧 Contact](#-contact)
-
 ## 📖 Papers
+### Intrinsic Trustworthiness
+#### Brain (LLM)
+#### Memory
+#### Tool
 
-
+### Extrinsic Trustworthiness
+#### Agent-to-Agent
+#### Agent-to-Environment
+#### Agent-to-User
 
 ## 🔍 Comparison with Previous Surveys
 | Survey             | Object      | Multi-Dimension | Modular | Technique      | MAS |
