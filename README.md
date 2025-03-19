@@ -311,7 +311,6 @@ We will continuously update the survey and appreciate your support and contribut
 
 4. **“RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks”**  (arxiv 2024)  
 ​	*Changyue Jiang et al.* [Paper](https://arxiv.org/pdf/2411.14110)
-
 #### 🛠️ Tool
 ##### Attack
 1. **"An Evaluation Mechanism of LLM-based Agents on Manipulating APIs"** (EMNLP 2024)  
@@ -366,7 +365,31 @@ We will continuously update the survey and appreciate your support and contribut
     *Kumar et al.*  [Paper](https://arxiv.org/abs/2410.13886)
 
 ##### Defense
+1. **"GuardAgent: Safeguard LLM agents by a guard agent via knowledge-enabled reasoning"** (arxiv 2024)  
+    *Xiang et al.*  [Paper](https://arxiv.org/abs/2406.09187)
+
+2. **"AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of Tool Orchestration"** (arxiv 2025)  
+    *Chen et al.*  [Paper](https://arxiv.org/abs/2502.09809)
+
 ##### Evaluation
+1. **"Toolsword: Unveiling safety issues of large language models in tool learning across three stages"** (arxiv 2024)  
+    *Ye et al.*  [Paper](https://arxiv.org/abs/2402.10753)
+
+2. **"InjecAgent: Benchmarking indirect prompt injections in tool-integrated large language model agents"** (arxiv 2024)  
+    *Zhan et al.*  [Paper](https://arxiv.org/abs/2403.02691)
+
+3. **"AgentHarm: A benchmark for measuring harmfulness of LLM agents"** (arxiv 2024)  
+    *Andriushchenko et al.*  [Paper](https://arxiv.org/pdf/2410.09024)
+
+4. **"PrivacyLens: Evaluating privacy norm awareness of language models in action"** (NeurIPS 2025)  
+    *Shao et al.*  [Paper](https://arxiv.org/abs/2409.00138)
+
+5. **"Identifying the risks of LM agents with an LM-emulated sandbox"** (arxiv 2023)  
+    *Ruan et al.*  [Paper](https://arxiv.org/abs/2309.15817)
+
+6. **"Haicosystem: An ecosystem for sandboxing safety risks in human-AI interactions"** (arxiv 2024)  
+    *Zhou et al.*  [Paper](https://arxiv.org/abs/2409.16427)
+
 
 ### Extrinsic Trustworthiness
 #### 🤖 Agent-to-Agent
