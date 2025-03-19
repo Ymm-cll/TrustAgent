@@ -174,45 +174,43 @@ We will continuously update the survey and appreciate your support and contribut
 14. **"Autodefense: Multi-agent llm defense against jailbreak attacks"** (arxiv 2024)  
     *Zeng et al.*  [Paper](https://arxiv.org/abs/2403.04783)
 
-15. **"Injecagent: Benchmarking indirect prompt injections in tool-integrated large language model agents"** (arxiv 2024)  
-    *Zhan et al.*  [Paper](https://arxiv.org/abs/2403.02691)
-
-16. **"Agentdojo: A dynamic environment to evaluate prompt injection attacks and defenses for LLM agents"** (NeurIPS 2025)  
-    *Debenedetti et al.*  [Paper](https://arxiv.org/abs/2406.13352)
-
-17. **"DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent"** (arxiv 2025)  
-    *Zhu et al.*  [Paper](https://arxiv.org/abs/2502.12575)
-
-18. **"Redagent: Red teaming large language models with context-aware autonomous language agent"** (arxiv 2024)  
-    *Xu et al.*  [Paper](https://arxiv.org/abs/2407.16667)
-
-19. **"Riskawarebench: Towards evaluating physical risk awareness for high-level planning of llm-based embodied agents"** (arxiv 2024)  
-    *Zhu et al.*  [Paper](https://arxiv.org/html/2408.04449v1)
-
-20. **"RedCode: Risky Code Execution and Generation Benchmark for Code Agents"** (NeurIPS 2024)  
-    *Guo et al.*  [Paper](https://arxiv.org/abs/2411.07781)
-
-21. **"S-eval: Automatic and adaptive test generation for benchmarking safety evaluation of large language models"** (arxiv 2024)  
-    *Yuan et al.*  [Paper](https://arxiv.org/abs/2405.14191)
-
-22. **"Bells: A framework towards future proof benchmarks for the evaluation of llm safeguards"** (arxiv 2024)  
-    *Dorn et al.*  [Paper](https://arxiv.org/abs/2406.01364)
-
-23. **"Agent-SafetyBench: Evaluating the Safety of LLM Agents"** (arxiv 2024)  
-    *Zhang et al.*  [Paper](https://arxiv.org/abs/2412.14470)
-
-24. **"Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents"** (arxiv 2024)  
-    *Zhang et al.*  [Paper](https://arxiv.org/abs/2410.02644)
-
-25. **"Agentharm: A benchmark for measuring harmfulness of llm agents"** (arxiv 2024)  
-    *Andriushchenko et al.*  [Paper](https://arxiv.org/abs/2410.09024)
-
-26. **"R-judge: Benchmarking safety risk awareness for llm agents"** (arxiv 2024)  
-    *Yuan et al.*  [Paper](https://arxiv.org/abs/2401.10019)
-
-
 ##### Evaluation
 
+1. **"Injecagent: Benchmarking indirect prompt injections in tool-integrated large language model agents"** (arxiv 2024)  
+    *Zhan et al.*  [Paper](https://arxiv.org/abs/2403.02691)
+
+2. **"Agentdojo: A dynamic environment to evaluate prompt injection attacks and defenses for LLM agents"** (NeurIPS 2025)  
+    *Debenedetti et al.*  [Paper](https://arxiv.org/abs/2406.13352)
+
+3. **"DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent"** (arxiv 2025)  
+    *Zhu et al.*  [Paper](https://arxiv.org/abs/2502.12575)
+
+4. **"Redagent: Red teaming large language models with context-aware autonomous language agent"** (arxiv 2024)  
+    *Xu et al.*  [Paper](https://arxiv.org/abs/2407.16667)
+
+5. **"Riskawarebench: Towards evaluating physical risk awareness for high-level planning of llm-based embodied agents"** (arxiv 2024)  
+    *Zhu et al.*  [Paper](https://arxiv.org/html/2408.04449v1)
+
+6. **"RedCode: Risky Code Execution and Generation Benchmark for Code Agents"** (NeurIPS 2024)  
+    *Guo et al.*  [Paper](https://arxiv.org/abs/2411.07781)
+
+7. **"S-eval: Automatic and adaptive test generation for benchmarking safety evaluation of large language models"** (arxiv 2024)  
+    *Yuan et al.*  [Paper](https://arxiv.org/abs/2405.14191)
+
+8. **"Bells: A framework towards future proof benchmarks for the evaluation of llm safeguards"** (arxiv 2024)  
+    *Dorn et al.*  [Paper](https://arxiv.org/abs/2406.01364)
+
+9. **"Agent-SafetyBench: Evaluating the Safety of LLM Agents"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2412.14470)
+
+10. **"Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2410.02644)
+
+11. **"Agentharm: A benchmark for measuring harmfulness of llm agents"** (arxiv 2024)  
+    *Andriushchenko et al.*  [Paper](https://arxiv.org/abs/2410.09024)
+
+12. **"R-judge: Benchmarking safety risk awareness for llm agents"** (arxiv 2024)  
+    *Yuan et al.*  [Paper](https://arxiv.org/abs/2401.10019)
 
 #### Memory
 ##### Attack
@@ -344,6 +342,57 @@ We will continuously update the survey and appreciate your support and contribut
 
 #### Tool
 ##### Attack
+1. **"An Evaluation Mechanism of LLM-based Agents on Manipulating APIs"** (EMNLP 2024)  
+    *Liu et al.*  [Paper](https://aclanthology.org/2024.findings-emnlp.267/)
+
+2. **"AI-and LLM-driven search tools: A paradigm shift in information access for education and research"** (Journal of Information Science 2024)  
+    *Chowdhury et al.*  [Paper](https://journals.sagepub.com/doi/10.1177/01655515241284046)
+
+3. **"Ufo: A UI-focused agent for Windows OS interaction"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2402.07939)
+
+4. **"Easytool: Enhancing LLM-based agents with concise tool instruction"** (arxiv 2024)  
+    *Yuan et al.*  [Paper](https://arxiv.org/abs/2401.06201)
+
+5. **"LLM with tools: A survey"** (arxiv 2024)  
+    *Shen et al.*  [Paper](https://arxiv.org/abs/2409.18807)
+
+6. **"ToolQA: A dataset for LLM question answering with external tools"** (NeurIPS 2023)  
+    *Zhuang et al.*  [Paper](https://arxiv.org/abs/2306.13304)
+
+7. **"Agent-SafetyBench: Evaluating the Safety of LLM Agents"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2412.14470)
+
+8. **"Security Attacks on LLM-based Code Completion Tools"** (arxiv 2024)  
+    *Cheng et al.*  [Paper](https://arxiv.org/abs/2408.11006)
+
+9. **"Imprompter: Tricking LLM Agents into Improper Tool Use"** (arxiv 2024)  
+    *Fu et al.*  [Paper](https://arxiv.org/abs/2410.14923)
+
+10. **"Misusing tools in large language models with visual adversarial examples"** (arxiv 2023)  
+    *Fu et al.*  [Paper](https://arxiv.org/abs/2310.03185)
+
+11. **"Breaking agents: Compromising autonomous LLM agents through malfunction amplification"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2407.20859)
+
+12. **"From Allies to Adversaries: Manipulating LLM Tool-Calling through Adversarial Injection"** (arxiv 2024)  
+    *Wang et al.*  [Paper](https://arxiv.org/abs/2412.10198)
+
+13. **"Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System"** (arxiv 2025)  
+    *Jiang et al.*  [Paper](https://arxiv.org/abs/2502.11358)
+
+14. **"Attacks on third-party APIs of large language models"** (arxiv 2024)  
+    *Zhao et al.*  [Paper](https://arxiv.org/abs/2404.16891)
+
+15. **"LLM agents can autonomously exploit one-day vulnerabilities"** (arxiv 2024)  
+    *Fang et al.*  [Paper](https://arxiv.org/abs/2404.08144)
+
+16. **"BadAgent: Inserting and activating backdoor attacks in LLM agents"** (arxiv 2024)  
+    *Wang et al.*  [Paper](https://arxiv.org/abs/2406.03007)
+
+17. **"Refusal-trained LLMs are easily jailbroken as browser agents"** (arxiv 2024)  
+    *Kumar et al.*  [Paper](https://arxiv.org/abs/2410.13886)
+
 ##### Defense
 ##### Evaluation
 
