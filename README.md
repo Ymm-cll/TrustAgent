@@ -220,7 +220,7 @@ We will continuously update the survey and appreciate your support and contribut
 1. **“Certifiably Robust RAG against Retrieval Corruption”**  (arxiv 2024)  
 ​	 *Chong Xiang et al.* [Paper](https://arxiv.org/pdf/2405.15556)
 
-2. **“AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases”**  (NIPS 2025)  
+2. **“AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases”**  (NeurIPS 2025)  
 ​	 *Zhaorun Chen et al.* [Paper](https://arxiv.org/pdf/2407.12784)
 
 3. **“PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models”**  (arxiv 2024)  
@@ -305,7 +305,7 @@ We will continuously update the survey and appreciate your support and contribut
 1. **“PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models”**  (arxiv 2024)  
 ​	*Wei Zou et al.* [Paper](https://arxiv.org/pdf/2402.07867)
 
-2. **“AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases”**  (NIPS 2025)  
+2. **“AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases”**  (NeurIPS 2025)  
 ​	*Zhaorun Chen et al.* [Paper](https://arxiv.org/pdf/2407.12784)
 
 3. **“The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)”**  (arxiv 2024)  
