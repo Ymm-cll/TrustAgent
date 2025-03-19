@@ -490,7 +490,7 @@ We will continuously update the survey and appreciate your support and contribut
 1. **“LLM Agents can Autonomously Hack Websites”**  (arxiv 2024)  
    *Richard Fang et al.* [Paper](https://arxiv.org/pdf/2402.06664)
 
-2. **“AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents”**  (arxiv 2024)  
+2. **“AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents”**  (NeurIPS 2025)  
    *Edoardo Debenedett et al.* [Paper](https://arxiv.org/pdf/2406.13352)
 
 3. **“GuardAgent: Safeguard LLM Agents via Knowledge-Enabled Reasoning”**  (arxiv 2024)  
