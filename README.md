@@ -300,7 +300,7 @@ We will continuously update the survey and appreciate your support and contribut
 8. **“Understanding Multi-Turn Toxic Behaviors in Open-Domain Chatbots”**  (RAID 2023)  
 ​	*Bocheng Chen et al.* [Paper](https://arxiv.org/pdf/2307.09579)
 
-##### Evaluation
+##### 🔺 Evaluation
 
 1. **“PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models”**  (arxiv 2024)  
 ​	*Wei Zou et al.* [Paper](https://arxiv.org/pdf/2402.07867)
