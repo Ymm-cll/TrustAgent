@@ -62,7 +62,7 @@ We will continuously update the survey and appreciate your support and contribut
 # We will finish this part *very soon*!
 ## 📖 Papers
 ### Intrinsic Trustworthiness
-#### Brain (LLM)
+#### 🧠 Brain (LLM)
 ##### Attack
 1. **"Describe, explain, plan and select: interactive planning with llms enables open-world multi-task agents"** (2023)  
     *Zihao Wang et al.*  [Paper](https://arxiv.org/abs/2302.01560)
@@ -212,7 +212,7 @@ We will continuously update the survey and appreciate your support and contribut
 12. **"R-judge: Benchmarking safety risk awareness for llm agents"** (arxiv 2024)  
     *Yuan et al.*  [Paper](https://arxiv.org/abs/2401.10019)
 
-#### Memory
+#### 💾 Memory
 ##### Attack
 
 1. **“Certifiably Robust RAG against Retrieval Corruption”**  (arxiv 2024)  
@@ -340,7 +340,7 @@ We will continuously update the survey and appreciate your support and contribut
 4. **“RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks”**  (arxiv 2024)  
 ​	*Changyue Jiang et al.* [Paper](https://arxiv.org/pdf/2411.14110)
 
-#### Tool
+#### 🛠️ Tool
 ##### Attack
 1. **"An Evaluation Mechanism of LLM-based Agents on Manipulating APIs"** (EMNLP 2024)  
     *Liu et al.*  [Paper](https://aclanthology.org/2024.findings-emnlp.267/)
@@ -397,16 +397,16 @@ We will continuously update the survey and appreciate your support and contribut
 ##### Evaluation
 
 ### Extrinsic Trustworthiness
-#### Agent-to-Agent
+#### 🤖 Agent-to-Agent
 ##### Attack
 ##### Defense
 ##### Evaluation
 
-#### Agent-to-Environment
+#### 🌍 Agent-to-Environment
 ##### Physical Environment
 ##### Digital Environment
 
-#### Agent-to-User
+#### 👤 Agent-to-User
 
 ## 🔍 Comparison with Previous Surveys
 | Survey             | Object      | Multi-Dimension | Modular | Technique      | MAS |
