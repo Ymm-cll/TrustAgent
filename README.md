@@ -97,10 +97,87 @@ We will continuously update the survey and appreciate your support and contribut
 12. **"The wolf within: Covert injection of malice into mllm societies via an mllm operative"** (arxiv 2024)  
     *Tan et al.*  [Paper](https://arxiv.org/html/2402.14859v1)
 
+13. **"Prompt Injection attack against LLM-integrated Applications"** (arxiv 2023)  
+    *Liu et al.*  [Paper](https://arxiv.org/abs/2306.05499)
+
+14. **"Ignore previous prompt: Attack techniques for language models"** (arxiv 2022)  
+    *Perez et al.*  [Paper](https://arxiv.org/abs/2211.09527)
+
+15. **"Not what you've signed up for: Compromising real-world llm-integrated applications with indirect prompt injection"** (ACM Workshop on Artificial Intelligence and Security 2023)  
+    *Greshake et al.*  [Paper](https://arxiv.org/abs/2302.12173)
+
+16. **"Automatic and universal prompt injection attacks against large language models"** (arxiv 2024)  
+    *Liu et al.*  [Paper](https://arxiv.org/abs/2403.04957)
+
+17. **"Optimization-based prompt injection attack to llm-as-a-judge"** (ACM SIGSAC 2024)  
+    *Shi et al.*  [Paper](https://arxiv.org/abs/2403.17710)
+
+18. **"Abusing images and sounds for indirect instruction injection in multi-modal LLMs"** (arxiv 2023)  
+    *Bagdasaryan et al.*  [Paper](https://arxiv.org/abs/2307.10490)
+
+19. **"Breaking agents: Compromising autonomous llm agents through malfunction amplification"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2407.20859)
+
+20. **"A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations"** (arxiv 2025)  
+    *Zhou et al.*  [Paper](https://arxiv.org/abs/2502.05224)
+
+21. **"Watch out for your agents! investigating backdoor threats to llm-based agents"** (arxiv 2024)  
+    *Yang et al.*  [Paper](https://arxiv.org/abs/2402.11208)
+
+22. **"DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent"** (arxiv 2025)  
+    *Zhu et al.*  [Paper](https://arxiv.org/abs/2502.12575)
+
+23. **"BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems"** (arxiv 2025)  
+    *Yu et al.*  [Paper](https://arxiv.org/abs/2501.01593)
 
 
 ##### Defense
+1. **"Moral Alignment for LLM Agents"** (arxiv 2024)  
+    *Tennant et al.*  [Paper](https://arxiv.org/abs/2410.01639)
+
+2. **"LLM agents in interaction: Measuring personality consistency and linguistic alignment in interacting populations of large language models"** (arxiv 2024)  
+    *Frisch et al.*  [Paper](https://arxiv.org/abs/2402.02896)
+
+3. **"Self-alignment of large language models via multi-agent social simulation"** (ICLR 2024)  
+    *Pang et al.*  [Paper](https://arxiv.org/abs/2402.05699)
+
+4. **"Aligning llm agents by learning latent preference from user edits"** (arxiv 2024)  
+    *Gao et al.*  [Paper](https://arxiv.org/abs/2404.15269)
+
+5. **"Large Language Model Assissted Multi-Agent Dialogue for Ontology Alignment"** (AAMAS 2024)  
+    *Zhang et al.*  [Paper](https://dl.acm.org/doi/abs/10.5555/3635637.3663238)
+
+6. **"Embedding-based classifiers can detect prompt injection attacks"** (arxiv 2024)  
+    *Ayub et al.*  [Paper](https://arxiv.org/abs/2410.22284)
+
+7. **"SLM as Guardian: Pioneering AI Safety with Small Language Models"** (arxiv 2024)  
+    *Kwon et al.*  [Paper](https://arxiv.org/abs/2405.19795)
+
+8. **"Struq: Defending against prompt injection with structured queries"** (arxiv 2024)  
+    *Chen et al.*  [Paper](https://arxiv.org/abs/2402.06363)
+
+9. **"Shieldlm: Empowering llms as aligned, customizable and explainable safety detectors"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2402.16444)
+
+10. **"Guardagent: Safeguard llm agents by a guard agent via knowledge-enabled reasoning"** (arxiv 2024)  
+    *Xiang et al.*  [Paper](https://arxiv.org/abs/2406.09187)
+
+11. **"AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of Tool Orchestration"** (arxiv 2025)  
+    *Chen et al.*  [Paper](https://arxiv.org/abs/2502.09809)
+
+12. **"Improving factuality and reasoning in language models through multiagent debate"** (ICML 2023)  
+    *Du et al.*  [Paper](https://arxiv.org/abs/2305.14325)
+
+13. **"Good Parenting is all you need--Multi-agentic LLM Hallucination Mitigation"** (arxiv 2024)  
+    *Kwartler et al.*  [Paper](https://arxiv.org/abs/2410.14262)
+
+14. **"Autodefense: Multi-agent llm defense against jailbreak attacks"** (arxiv 2024)  
+    *Zeng et al.*  [Paper](https://arxiv.org/abs/2403.04783)
+
+
+
 ##### Evaluation
+
 
 #### Memory
 ##### Attack
