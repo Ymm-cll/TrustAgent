@@ -60,7 +60,7 @@ We will continuously update the survey and appreciate your support and contribut
 - **Agent-to-Environment**: Safety in Robotics, Autonomous Driving, Digital Threats.
 
 ## 📖 Papers
-## <span style="color:red;"> We will finish this part *very soon* !</span>
+We will finish this part *very soon*!
 ### Intrinsic Trustworthiness
 #### Brain (LLM)
 ##### Attack
