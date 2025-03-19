@@ -232,7 +232,7 @@ We will continuously update the survey and appreciate your support and contribut
 5. **“AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents”**  (arxiv 2024)  
 ​	 *Zhexin Zhang et al.* [Paper](https://arxiv.org/pdf/2412.14470)
 
-6. **“Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast”**  (arxiv 2024)  
+6. **“Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast”**  (ICML 2024)  
 ​	 *Xiangming Gu et al.* [Paper](https://arxiv.org/pdf/2402.08567)
 
 7. **“Typos that Broke the RAG’s Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations”**  (arxiv 2024)  
@@ -415,7 +415,7 @@ We will continuously update the survey and appreciate your support and contribut
 6. **“CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models”**  (arxiv 2024)  
    *Zhenhong Zhou et al.* [Paper](https://arxiv.org/pdf/2502.14529)
 
-7. **“Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast”**  (arxiv 2024)  
+7. **“Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast”**  (ICML 2024)  
    *Xiangming Gu et al.* [Paper](https://arxiv.org/pdf/2402.08567)
 
 8. **“The Wolf Within: Covert Injection of Malice into MLLM Societies via An MLLM Operative”**  (arxiv 2024)  
