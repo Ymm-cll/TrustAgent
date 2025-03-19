@@ -66,6 +66,36 @@ We will continuously update the survey and appreciate your support and contribut
 ##### Attack
 1. **"Describe, explain, plan and select: interactive planning with llms enables open-world multi-task agents"** (2023)  
     *Zihao Wang et al.*  [Paper](https://arxiv.org/abs/2302.01560)
+   
+3. **"Certifying llm safety against adversarial prompting"** (arxiv 2023)  
+    *Kumar et al.*  [Paper](https://arxiv.org/abs/2309.02705)
+
+4. **"Universal and transferable adversarial attacks on aligned language models"** (arxiv 2023)  
+    *Zou et al.*  [Paper](https://arxiv.org/abs/2307.15043)
+
+5. **"Improved techniques for optimization-based jailbreaking on large language models"** (arxiv 2024)  
+    *Jia et al.*  [Paper](https://arxiv.org/abs/2405.21018)
+
+6. **"AttnGCG: Enhancing jailbreaking attacks on LLMs with attention manipulation"** (arxiv 2024)  
+    *Wang et al.*  [Paper](https://arxiv.org/abs/2410.09040)
+
+7. **"Mrj-agent: An effective jailbreak agent for multi-round dialogue"** (arxiv 2024)  
+    *Wang et al.*  [Paper](https://arxiv.org/abs/2411.03814)
+
+8. **"PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage"** (arxiv 2024)  
+    *Nie et al.*  [Paper](https://arxiv.org/abs/2412.05734)
+
+9. **"Evil geniuses: Delving into the safety of llm-based agents"** (arxiv 2023)  
+    *Tian et al.*  [Paper](https://arxiv.org/abs/2311.11855)
+
+10. **"Pandora: Detailed llm jailbreaking via collaborated phishing agents with decomposed reasoning"** (ICLR 2024)  
+    *Chen et al.*  [Paper](https://openreview.net/forum?id=9o06ugFxIj)
+
+11. **"Agent smith: A single image can jailbreak one million multimodal llm agents exponentially fast"** (ICML 2024)  
+    *Gu et al.*  [Paper](https://arxiv.org/abs/2402.08567)
+
+12. **"The wolf within: Covert injection of malice into mllm societies via an mllm operative"** (arxiv 2024)  
+    *Tan et al.*  [Paper](https://arxiv.org/html/2402.14859v1)
 
 
 
