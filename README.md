@@ -103,14 +103,11 @@ We will continuously update the survey and appreciate your support and contribut
 ## 📥 Citation
 If you find this survey useful for your research, please cite us:
 ```bibtex
-@misc{yu2025surveytrustworthyllmagents,
-      title={A Survey on Trustworthy LLM Agents: Threats and Countermeasures}, 
-      author={Miao Yu and Fanci Meng and Xinyun Zhou and Shilong Wang and Junyuan Mao and Linsey Pang and Tianlong Chen and Kun Wang and Xinfeng Li and Yongfeng Zhang and Bo An and Qingsong Wen},
-      year={2025},
-      eprint={2503.09648},
-      archivePrefix={arXiv},
-      primaryClass={cs.MA},
-      url={https://arxiv.org/abs/2503.09648}, 
+@article{yu2025survey,
+  title={A Survey on Trustworthy LLM Agents: Threats and Countermeasures},
+  author={Yu, Miao and Meng, Fanci and Zhou, Xinyun and Wang, Shilong and Mao, Junyuan and Pang, Linsey and Chen, Tianlong and Wang, Kun and Li, Xinfeng and Zhang, Yongfeng and others},
+  journal={arXiv preprint arXiv:2503.09648},
+  year={2025}
 }
 ```
 
