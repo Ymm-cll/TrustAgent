@@ -59,8 +59,8 @@ We will continuously update the survey and appreciate your support and contribut
 - **Agent-to-User**: Personalized Attacks, Transparency Issues, Trust Calibration.
 - **Agent-to-Environment**: Safety in Robotics, Autonomous Driving, Digital Threats.
 
+# We will finish this part *very soon*!
 ## 📖 Papers
-We will finish this part *very soon*!
 ### Intrinsic Trustworthiness
 #### Brain (LLM)
 ##### Attack
