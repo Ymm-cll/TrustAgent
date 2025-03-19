@@ -371,6 +371,46 @@ We will continuously update the survey and appreciate your support and contribut
 ### Extrinsic Trustworthiness
 #### 🤖 Agent-to-Agent
 ##### Attack
+
+1. **“Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities”**  (arxiv 2024) 
+
+   *Tianjie Ju et al.* [Paper](https://arxiv.org/pdf/2407.07791)
+
+2. **“Red-Teaming LLM Multi-Agent Systems via Communication Attacks”**  (arxiv 2025) 
+
+   *Pengfei He et al.* [Paper](https://arxiv.org/pdf/2502.14847)
+
+3. **“MultiAgent Collaboration Attack: Investigating Adversarial Attacks in Large Language Model Collaborations via Debate”**  (arxiv 2024)
+
+   *Alfonso Amayuelas et al.* [Paper](https://arxiv.org/pdf/2406.14711)
+
+4. **“Evil Geniuses: Delving into the Safety of LLM-based Agents”**  (arxiv 2023) 
+
+   *Yu Tian et al.* [Paper](https://arxiv.org/pdf/2311.11855)
+
+5. **“PROMPT INFECTION: LLM-TO-LLM PROMPT INJECTION WITHIN MULTI-AGENT SYSTEMS”**  (arxiv 2024) 
+
+   *Donghyun Lee et al.* [Paper](https://arxiv.org/pdf/2410.07283)
+
+6. **“CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models”**  (arxiv 2024) 
+
+   *Zhenhong Zhou et al.* [Paper](https://arxiv.org/pdf/2502.14529)
+
+7. **“Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast”**  (arxiv 2024) 
+
+   *Xiangming Gu et al.* [Paper](https://arxiv.org/pdf/2402.08567)
+
+8. **“The Wolf Within: Covert Injection of Malice into MLLM Societies via An MLLM Operative”**  (arxiv 2024) 
+
+   *Zhen Tan et al.* [Paper](https://arxiv.org/pdf/2402.14859)
+
+9. **“NetSafe: Exploring the Topological Safety of Multi-agent Network”**  (arxiv 2024) 
+
+   *Miao Yu et al.* [Paper](https://arxiv.org/pdf/2410.15686)
+
+10. **“NetSafe: Exploring the Topological Safety of Multi-agent Network”**  (arxiv 2024) 
+
+    *Miao Yu et al.* [Paper](https://arxiv.org/pdf/2410.15686)
 ##### Defense
 ##### Evaluation
 
