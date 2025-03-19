@@ -62,7 +62,7 @@ We will continuously update the survey and appreciate your support and contribut
 # 📖 Papers
 ## Intrinsic Trustworthiness
 ### 🧠 Brain (LLM)
-#### 🔺 **Attack**
+#### 🔺 Attack
 
 
 1. **"Describe, explain, plan and select: interactive planning with llms enables open-world multi-task agents"** (2023)  
