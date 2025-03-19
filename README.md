@@ -216,76 +216,58 @@ We will continuously update the survey and appreciate your support and contribut
 ##### Attack
 
 1. **“Certifiably Robust RAG against Retrieval Corruption”**  (arxiv 2024)  
-​	    *Chong Xiang et al.* [Paper](https://arxiv.org/pdf/2405.15556)
-
+​	 *Chong Xiang et al.* [Paper](https://arxiv.org/pdf/2405.15556)
 
 2. **“AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases”**  (NIPS 2025)  
-​	  *Zhaorun Chen et al.* [Paper](https://arxiv.org/pdf/2407.12784)
-
+​	 *Zhaorun Chen et al.* [Paper](https://arxiv.org/pdf/2407.12784)
 
 3. **“PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models”**  (arxiv 2024)  
-​	  *Wei Zou et al.* [Paper](https://arxiv.org/pdf/2402.07867)
-
+​	 *Wei Zou et al.* [Paper](https://arxiv.org/pdf/2402.07867)
 
 4. **“Poisoning Retrieval Corpora by Injecting Adversarial Passages”**  (arxiv 2023)  
-​	  *Zexuan Zhong et al.* [Paper](https://arxiv.org/pdf/2310.19156)
-
+​	 *Zexuan Zhong et al.* [Paper](https://arxiv.org/pdf/2310.19156)
 
 5. **“AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents”**  (arxiv 2024)  
-​	  *Zhexin Zhang et al.* [Paper](https://arxiv.org/pdf/2412.14470)
-
+​	 *Zhexin Zhang et al.* [Paper](https://arxiv.org/pdf/2412.14470)
 
 6. **“Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast”**  (arxiv 2024)  
-​	  *Xiangming Gu et al.* [Paper](https://arxiv.org/pdf/2402.08567)
-
+​	 *Xiangming Gu et al.* [Paper](https://arxiv.org/pdf/2402.08567)
 
 7. **“Typos that Broke the RAG’s Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations”**  (arxiv 2024)  
-​	  *Sukmin Cho et al.* [Paper](https://arxiv.org/pdf/2404.13948)
-
+​	 *Sukmin Cho et al.* [Paper](https://arxiv.org/pdf/2404.13948)
 
 8. **“ Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks”**  (arxiv 2025)  
-​	  *Ang Li et al.* [Paper](https://arxiv.org/pdf/2502.08586)
-
+​	 *Ang Li et al.* [Paper](https://arxiv.org/pdf/2502.08586)
 
 9. **“The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)”**  (arxiv 2024)  
-​	  *Shenglai Zeng et al.* [Paper](https://arxiv.org/pdf/2402.16893)
-
+​	 *Shenglai Zeng et al.* [Paper](https://arxiv.org/pdf/2402.16893)
 
 10. **“ Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation”**  (arxiv 2024)  
-​	  *Maya Anderson et al.* [Paper](https://arxiv.org/pdf/2405.20446)
-
+    *Maya Anderson et al.* [Paper](https://arxiv.org/pdf/2405.20446)
 
 11. **“RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks”**  (arxiv 2024)  
 ​	  *Changyue Jiang et al.* [Paper](https://arxiv.org/pdf/2411.14110)
 
-
 12. **“Text Embeddings Reveal (Almost) As Much As Text”**  (arxiv 2023)  
 ​	  *John X Morris et al.* [Paper](https://arxiv.org/pdf/2310.06816)
-
 
 13. **“Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence”**  (arxiv 2023)  
 ​	  *Haoran Li et al.* [Paper](https://arxiv.org/pdf/2305.03010)
 
-
 14. **“Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack”**  (arxiv 2024)  
 ​	  *Mark Russinovich et al.* [Paper](https://arxiv.org/pdf/2404.01833)
-
 
 15. **“LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet”**  (arxiv 2024)  
 ​	  *Nathaniel Li et al.* [Paper](https://arxiv.org/pdf/2408.15221)
 
-
 16. **“LEVERAGING THE CONTEXT THROUGH MULTI-ROUND INTERACTIONS FOR JAILBREAKING ATTACKS”**  (arxiv 2024)  
 ​	  *Yixin Cheng et al.* [Paper](https://arxiv.org/pdf/2402.09177)
-
 
 17. **“FRACTURED-SORRY-Bench: Framework for Revealing Attacks in Conversational Turns Undermining Refusal Efficacy and Defenses over SORRY-Bench (Automated Multi-shot Jailbreaks)”**  (arxiv 2024)  
 ​	  *Aman Priyanshu et al.* [Paper](https://arxiv.org/pdf/2408.16163)
 
-
 18. **“Prompt Leakage effect and defense strategies for multi-turn LLM interactions”**  (arxiv 2024)  
 ​	  *Divyansh Agarwal et al.* [Paper](https://arxiv.org/pdf/2404.16251)
-
 
 19. **“Securing Multi-turn Conversational Language Models From Distributed Backdoor Triggers”**  (arxiv 2024)  
 ​	  *Terry Tong et al.* [Paper](https://arxiv.org/pdf/2407.04151)
@@ -295,30 +277,23 @@ We will continuously update the survey and appreciate your support and contribut
 1. **“TrustRAG: Enhancing Robustness and Trustworthiness in RAG”**  (arxiv 2025)   
 ​	*Huichi Zhou et al.* [Paper](https://arxiv.org/pdf/2501.00879)
 
-
 2. **“On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains”**  (arxiv 2024)  
 ​	*Xun Xian et al.* [Paper](https://arxiv.org/pdf/2409.17275)
-
 
 3. **“Prompt Leakage effect and defense strategies for multi-turn LLM interactions”**  (arxiv 2024)  
 ​	*Divyansh Agarwal et al.* [Paper](https://arxiv.org/pdf/2404.16251)
 
-
 4. **“AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents”**  (arxiv 2024)  
 ​	*Zhexin Zhang et al.* [Paper](https://arxiv.org/pdf/2412.14470)
-
 
 5. **““Ghost of the past”: Identifying and Resolving Privacy Leakage of LLM’s Memory Through Proactive User Interaction”**  (arxiv 2024)  
 ​	*Shuning Zhang et al.* [Paper](https://arxiv.org/pdf/2410.14931)
 
-
 6. **“ Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation”**  (arxiv 2024)  
 ​	*Maya Anderson et al.* [Paper](https://arxiv.org/pdf/2405.20446)
 
-
 7. **“Certifiably Robust RAG against Retrieval Corruption”**  (arxiv 2024)  
 ​	*Chong Xiang et al.* [Paper](https://arxiv.org/pdf/2405.15556)
-
 
 8. **“Understanding Multi-Turn Toxic Behaviors in Open-Domain Chatbots”**  (RAID 2023)  
 ​	*Bocheng Chen et al.* [Paper](https://arxiv.org/pdf/2307.09579)
@@ -328,14 +303,11 @@ We will continuously update the survey and appreciate your support and contribut
 1. **“PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models”**  (arxiv 2024)  
 ​	*Wei Zou et al.* [Paper](https://arxiv.org/pdf/2402.07867)
 
-
 2. **“AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases”**  (NIPS 2025)  
 ​	*Zhaorun Chen et al.* [Paper](https://arxiv.org/pdf/2407.12784)
 
-
 3. **“The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)”**  (arxiv 2024)  
 ​	*Shenglai Zeng et al.* [Paper](https://arxiv.org/pdf/2402.16893)
-
 
 4. **“RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks”**  (arxiv 2024)  
 ​	*Changyue Jiang et al.* [Paper](https://arxiv.org/pdf/2411.14110)
