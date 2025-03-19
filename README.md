@@ -430,6 +430,15 @@ We will continuously update the survey and appreciate your support and contribut
    
 ##### Evaluation
 
+1. **“SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents”**  (arxiv 2024) 
+   *Sheng Yin et al.* [Paper](https://arxiv.org/pdf/2412.13178)
+
+2. **“R-Judge: Benchmarking Safety Risk Awareness for LLM Agents”**  (arxiv 2024) 
+   *Tongxin Yuan et al.* [Paper](https://arxiv.org/pdf/2401.10019)
+
+3. **“JAILJUDGE: A COMPREHENSIVE JAILBREAK JUDGE BENCHMARK WITH MULTI-AGENT ENHANCED EXPLANATION EVALUATION FRAMEWORK”**  (arxiv 2024) 
+   *Fan Liu et al.* [Paper](https://arxiv.org/pdf/2410.12855)
+
 #### 🌍 Agent-to-Environment
 ##### Physical Environment
 ##### Digital Environment
