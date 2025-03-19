@@ -133,7 +133,7 @@ We will continuously update the survey and appreciate your support and contribut
     *Yu et al.*  [Paper](https://arxiv.org/abs/2501.01593)
 
 
-##### Defense
+##### 🔺 Defense
 1. **"Moral Alignment for LLM Agents"** (arxiv 2024)  
     *Tennant et al.*  [Paper](https://arxiv.org/abs/2410.01639)
 
@@ -176,7 +176,7 @@ We will continuously update the survey and appreciate your support and contribut
 14. **"Autodefense: Multi-agent llm defense against jailbreak attacks"** (arxiv 2024)  
     *Zeng et al.*  [Paper](https://arxiv.org/abs/2403.04783)
 
-##### Evaluation
+##### 🔺Evaluation
 
 1. **"Injecagent: Benchmarking indirect prompt injections in tool-integrated large language model agents"** (arxiv 2024)  
     *Zhan et al.*  [Paper](https://arxiv.org/abs/2403.02691)
@@ -215,7 +215,7 @@ We will continuously update the survey and appreciate your support and contribut
     *Yuan et al.*  [Paper](https://arxiv.org/abs/2401.10019)
 
 #### 💾 Memory
-##### Attack
+##### 🔺 Attack
 
 1. **“Certifiably Robust RAG against Retrieval Corruption”**  (arxiv 2024)  
 ​	 *Chong Xiang et al.* [Paper](https://arxiv.org/pdf/2405.15556)
@@ -274,7 +274,7 @@ We will continuously update the survey and appreciate your support and contribut
 19. **“Securing Multi-turn Conversational Language Models From Distributed Backdoor Triggers”**  (arxiv 2024)  
 ​	  *Terry Tong et al.* [Paper](https://arxiv.org/pdf/2407.04151)
 
-##### Defense
+##### 🔺 Defense
 
 1. **“TrustRAG: Enhancing Robustness and Trustworthiness in RAG”**  (arxiv 2025)   
 ​	*Huichi Zhou et al.* [Paper](https://arxiv.org/pdf/2501.00879)
@@ -314,7 +314,7 @@ We will continuously update the survey and appreciate your support and contribut
 4. **“RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks”**  (arxiv 2024)  
 ​	*Changyue Jiang et al.* [Paper](https://arxiv.org/pdf/2411.14110)
 #### 🛠️ Tool
-##### Attack
+##### 🔺 Attack
 1. **"An Evaluation Mechanism of LLM-based Agents on Manipulating APIs"** (EMNLP 2024)  
     *Liu et al.*  [Paper](https://aclanthology.org/2024.findings-emnlp.267/)
 
@@ -366,14 +366,14 @@ We will continuously update the survey and appreciate your support and contribut
 17. **"Refusal-trained LLMs are easily jailbroken as browser agents"** (arxiv 2024)  
     *Kumar et al.*  [Paper](https://arxiv.org/abs/2410.13886)
 
-##### Defense
+##### 🔺 Defense
 1. **"GuardAgent: Safeguard LLM agents by a guard agent via knowledge-enabled reasoning"** (arxiv 2024)  
     *Xiang et al.*  [Paper](https://arxiv.org/abs/2406.09187)
 
 2. **"AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of Tool Orchestration"** (arxiv 2025)  
     *Chen et al.*  [Paper](https://arxiv.org/abs/2502.09809)
 
-##### Evaluation
+##### 🔺 Evaluation
 1. **"Toolsword: Unveiling safety issues of large language models in tool learning across three stages"** (arxiv 2024)  
     *Ye et al.*  [Paper](https://arxiv.org/abs/2402.10753)
 
@@ -395,7 +395,7 @@ We will continuously update the survey and appreciate your support and contribut
 
 ### Extrinsic Trustworthiness
 #### 🤖 Agent-to-Agent
-##### Attack
+##### 🔺 Attack
 
 1. **“Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities”**  (arxiv 2024)  
    *Tianjie Ju et al.* [Paper](https://arxiv.org/pdf/2407.07791)
@@ -427,7 +427,7 @@ We will continuously update the survey and appreciate your support and contribut
 10. **“NetSafe: Exploring the Topological Safety of Multi-agent Network”**  (arxiv 2024)  
     *Miao Yu et al.* [Paper](https://arxiv.org/pdf/2410.15686)
     
-##### Defense
+##### 🔺 Defense
 
 1. **“BlockAgents: Towards Byzantine-Robust LLM-Based Multi-Agent Coordination via Blockchain”**  (TURC 2024)  
    *Bei Chen et al.* [Paper](https://dl.acm.org/doi/pdf/10.1145/3674399.3674445)
@@ -453,7 +453,7 @@ We will continuously update the survey and appreciate your support and contribut
 8. **“G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems”**  (arxiv 2025)  
    *Shilong Wang  et al.* [Paper](https://arxiv.org/pdf/2502.11127)
    
-##### Evaluation
+##### 🔺 Evaluation
 
 1. **“SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents”**  (arxiv 2024)  
    *Sheng Yin et al.* [Paper](https://arxiv.org/pdf/2412.13178)
