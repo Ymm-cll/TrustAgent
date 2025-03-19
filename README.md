@@ -91,7 +91,7 @@ We will continuously update the survey and appreciate your support and contribut
 
 ## 🔍 Comparison with Previous Surveys
 | Survey             | Object      | Multi-Dimension | Modular | Technique      | MAS |
-|--------------------|-------------|-----------------|---------|-----------------|------|
+|:--------------------:|:-------------:|:-----------------:|:---------:|:-----------------:|:------:|
 | [Liu et al.](https://arxiv.org/pdf/2308.05374)  | LLM         | ✅              | ❌       | Atk/Eval        | ❌    |
 | [Huang et al.](https://mosis.eecs.utk.edu/publications/lichao2024trustllm.pdf)   | LLM         | ✅              | ❌       | Eval            | ❌    |
 | [He et al.](https://arxiv.org/pdf/2407.19354)   | Agent       | ❌              | ❌       | Atk/Def         | ❌    |
