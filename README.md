@@ -174,6 +174,41 @@ We will continuously update the survey and appreciate your support and contribut
 14. **"Autodefense: Multi-agent llm defense against jailbreak attacks"** (arxiv 2024)  
     *Zeng et al.*  [Paper](https://arxiv.org/abs/2403.04783)
 
+15. **"Injecagent: Benchmarking indirect prompt injections in tool-integrated large language model agents"** (arxiv 2024)  
+    *Zhan et al.*  [Paper](https://arxiv.org/abs/2403.02691)
+
+16. **"Agentdojo: A dynamic environment to evaluate prompt injection attacks and defenses for LLM agents"** (NeurIPS 2025)  
+    *Debenedetti et al.*  [Paper](https://arxiv.org/abs/2406.13352)
+
+17. **"DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent"** (arxiv 2025)  
+    *Zhu et al.*  [Paper](https://arxiv.org/abs/2502.12575)
+
+18. **"Redagent: Red teaming large language models with context-aware autonomous language agent"** (arxiv 2024)  
+    *Xu et al.*  [Paper](https://arxiv.org/abs/2407.16667)
+
+19. **"Riskawarebench: Towards evaluating physical risk awareness for high-level planning of llm-based embodied agents"** (arxiv 2024)  
+    *Zhu et al.*  [Paper](https://arxiv.org/html/2408.04449v1)
+
+20. **"RedCode: Risky Code Execution and Generation Benchmark for Code Agents"** (NeurIPS 2024)  
+    *Guo et al.*  [Paper](https://arxiv.org/abs/2411.07781)
+
+21. **"S-eval: Automatic and adaptive test generation for benchmarking safety evaluation of large language models"** (arxiv 2024)  
+    *Yuan et al.*  [Paper](https://arxiv.org/abs/2405.14191)
+
+22. **"Bells: A framework towards future proof benchmarks for the evaluation of llm safeguards"** (arxiv 2024)  
+    *Dorn et al.*  [Paper](https://arxiv.org/abs/2406.01364)
+
+23. **"Agent-SafetyBench: Evaluating the Safety of LLM Agents"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2412.14470)
+
+24. **"Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents"** (arxiv 2024)  
+    *Zhang et al.*  [Paper](https://arxiv.org/abs/2410.02644)
+
+25. **"Agentharm: A benchmark for measuring harmfulness of llm agents"** (arxiv 2024)  
+    *Andriushchenko et al.*  [Paper](https://arxiv.org/abs/2410.09024)
+
+26. **"R-judge: Benchmarking safety risk awareness for llm agents"** (arxiv 2024)  
+    *Yuan et al.*  [Paper](https://arxiv.org/abs/2401.10019)
 
 
 ##### Evaluation
