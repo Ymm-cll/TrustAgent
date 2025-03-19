@@ -21,13 +21,13 @@ With the rapid evolution of Large Language Models (LLMs), LLM-based agents and M
   - [2️⃣ Extrinsic Trustworthiness](#2️⃣-extrinsic-trustworthiness)
 - [📖 Papers](#-papers)
   - [Intrinsic Trustworthiness](#intrinsic-trustworthiness)
-    - [Brain (LLM)](#brain-llm)
-    - [Memory](#memory)
-    - [Tool](#tool)
+    - [🧠 Brain (LLM)](#brain-llm)
+    - [💾 Memory](#memory)
+    - [🛠️ Tool](#tool)
   - [Extrinsic Trustworthiness](#extrinsic-trustworthiness)
-    - [Agent-to-Agent](#agent-to-agent)
-    - [Agent-to-Environment](#agent-to-environment)
-    - [Agent-to-User](#agent-to-user)
+    - [🤖 Agent-to-Agent](#agent-to-agent)
+    - [🌍 Agent-to-Environment](#agent-to-environment)
+    - [👤 Agent-to-User](#agent-to-user)
 - [🔍 Comparison with Previous Surveys](#-comparison-with-previous-surveys)
 - [📥 Citation](#-citation)
 - [📢 Contributing](#-contributing)
@@ -62,7 +62,7 @@ We will continuously update the survey and appreciate your support and contribut
 # We will finish this part *very soon*!
 ## 📖 Papers
 ### Intrinsic Trustworthiness
-#### 🧠 **Brain (LLM)**
+#### 🧠 Brain (LLM)
 ##### 🔺 Attack
 
 
