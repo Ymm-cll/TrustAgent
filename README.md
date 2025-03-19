@@ -466,9 +466,63 @@ We will continuously update the survey and appreciate your support and contribut
 
 #### 🌍 Agent-to-Environment
 ##### Physical Environment
+
+1. **“Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents”**  (ICRA 2024)  
+   *Ziyi Yang et al.* [Paper](https://arxiv.org/pdf/2309.09919)
+
+2. **“SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models”**  (arxiv 2024)  
+   *Yi Wu et al.* [Paper](https://arxiv.org/pdf/2409.19471)
+
+3. **“Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks”**  (arxiv 2024)  
+   *Ruoyu Song et al.* [Paper](https://arxiv.org/pdf/2409.14488)
+
+4. **“ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles”**  (CVF 2024)  
+   *Jiawei Zhang et al.* [Paper](https://arxiv.org/pdf/2405.14062)
+
+5. **“Autonomous Industrial Control using an Agentic Framework with Large Language Models”**  (arxiv 2024)  
+   *Javal Vyas et al.* [Paper](https://arxiv.org/pdf/2411.05904)
+ 
+6. **“Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents”**  (arxiv 2024)  
+   *Zihan Liu et al.* [Paper](https://arxiv.org/pdf/2410.14209)
+   
 ##### Digital Environment
 
+1. **“LLM Agents can Autonomously Hack Websites”**  (arxiv 2024)  
+   *Richard Fang et al.* [Paper](https://arxiv.org/pdf/2402.06664)
+
+2. **“AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents”**  (arxiv 2024)  
+   *Edoardo Debenedett et al.* [Paper](https://arxiv.org/pdf/2406.13352)
+
+3. **“GuardAgent: Safeguard LLM Agents via Knowledge-Enabled Reasoning”**  (arxiv 2024)  
+   *Zhen Xiang et al.* [Paper](https://arxiv.org/pdf/2406.09187)
+
+4. **“Polaris: A Safety-focused LLM Constellation Architecture for Healthcare”**  (arxiv 2024)  
+   *Subhabrata Mukherjee et al.* [Paper](https://arxiv.org/pdf/2403.13313)
+
+5. **“Position: Standard Benchmarks Fail – LLM Agents Present Overlooked Risks for Financial Applications”**  (arxiv 2025)  
+   *Zichen Chen et al.* [Paper](https://arxiv.org/pdf/2502.15865)
+
+6. **“ENHANCING ANOMALY DETECTION IN FINANCIAL MARKETS WITH AN LLM-BASED MULTI-AGENT FRAMEWORK”**  (arxiv 2024)  
+   *Taejin Park.* [Paper](https://arxiv.org/pdf/2403.19735)
+
+7. **“A Hybrid Attention Framework for Fake News Detection with Large Language Models”**  (NLPCC 2024)  
+   *Korir Nancy Jeptoo et al.* [Paper](https://arxiv.org/pdf/2501.11967)
+
+8. **“Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance”**  (arxiv 2024)  
+   *Lucio La Cava et al.* [Paper](https://arxiv.org/pdf/2409.08963)
+
 #### 👤 Agent-to-User
+
+1. **“The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies”**  (arxiv 2024)  
+   *Feng He et al.* [Paper](https://arxiv.org/pdf/2407.19354)
+
+2. **“Privacy Leakage Overshadowed by Views of AI: A Study on Human Oversight of Privacy in Language Model Agent”**  (arxiv 2024)  
+   *Zhiping Zhang et al.* [Paper](https://arxiv.org/pdf/2411.01344)
+
+3. **“EMPOWERING USERS IN DIGITAL PRIVACY MANAGEMENT THROUGH INTERACTIVE LLM-BASED AGENTS”**  (arxiv 2024)  
+   *Bolun Sun et al.* [Paper](https://arxiv.org/pdf/2410.11906)
+
+
 
 ## 🔍 Comparison with Previous Surveys
 | Survey             | Object      | Multi-Dimension | Modular | Technique      | MAS |
