@@ -464,7 +464,7 @@ We will continuously update the survey and appreciate your support and contribut
    *Fan Liu et al.* [Paper](https://arxiv.org/pdf/2410.12855)
 
 ### 🌍 Agent-to-Environment
-#### Physical Environment
+#### 🔺 Physical Environment
 
 1. **“Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents”**  (ICRA 2024)  
    *Ziyi Yang et al.* [Paper](https://arxiv.org/pdf/2309.09919)
@@ -484,7 +484,7 @@ We will continuously update the survey and appreciate your support and contribut
 6. **“Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents”**  (arxiv 2024)  
    *Zihan Liu et al.* [Paper](https://arxiv.org/pdf/2410.14209)
    
-#### Digital Environment
+#### 🔺 Digital Environment
 
 1. **“LLM Agents can Autonomously Hack Websites”**  (arxiv 2024)  
    *Richard Fang et al.* [Paper](https://arxiv.org/pdf/2402.06664)
